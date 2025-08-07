@@ -1,8 +1,18 @@
 <div align="center">
-[itsmexxie.net](https://itsmexxie.net)
+software developer based in Prague, Czech Republic
+<br>
+currently studying at <a href="https://www.mff.cuni.cz/">MFF UK</a>
 </div>
 
+<br>
+
 <div align="center">
-![transgender flag](./assets/trans.png)
-![yes i am a catgirl. yes i love other catgirls. its 2008. get over it](./assets/catgirl.png)
+<a href="https://itsmexxie.net">itsmexxie.net</a>
+</div>
+
+<br>
+
+<div align="center">
+<img src="./assets/trans.png">
+<img src="./assets/catgirl.png">
 </div>
